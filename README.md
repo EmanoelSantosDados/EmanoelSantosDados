@@ -19,6 +19,8 @@
 
 ###
 
+<h3 align="left">Especialista em:</h3>
+
 ###
 
 <div align="left">
