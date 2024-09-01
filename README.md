@@ -1,4 +1,6 @@
-<h4 align="left">Emanoel Santos - Data Scientist / Formado em Análise e desenvolvimento de sistemas com formação técnica em Ciência de Dados</h4>
+<h3 align="left">Emanoel Santos - Data Scientist / Formado em Análise e desenvolvimento de sistemas com formação técnica em Ciência de Dados</h3>
+
+<h3 align="left">Vamos nos conectar</h3>
 
 <div align="left">
   <a href="https://www.instagram.com/emanoel1980/" target="_blank">
