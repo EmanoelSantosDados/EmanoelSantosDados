@@ -1,4 +1,4 @@
-<h3 align="left">Emanoel Santos - Data Scientist / Formado em Análise e desenvolvimento de sistemas com formação técnica em Ciência de Dados</h3>
+<h2 align="left">Olá, eu sou o Emanoel Santos, Data Scientist</h2>
 
 <h3 align="left">Vamos nos conectar</h3>
 
