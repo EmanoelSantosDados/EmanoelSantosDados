@@ -33,26 +33,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="linkedin logo"  />
   <img width="12" />  
 </div>
-
-<div align="left">
-</div>
-
-###
-
-<div align="left">
-</div>
-
-###
-
-<img align="right" height="150" src=""  />
-
-###
-
-<div align="left">
-</div>
-
-###
-
-<img align="right" height="150" src=""  />
-
-###
