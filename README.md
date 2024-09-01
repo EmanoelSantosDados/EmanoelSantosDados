@@ -1,4 +1,4 @@
-<h2 align="left">Emanoel Santos - Data Scientist / Formado em Análise e desenvolvimento de sistemas com formação técnica em Ciência de Dados</h2>
+<h4 align="left">Emanoel Santos - Data Scientist / Formado em Análise e desenvolvimento de sistemas com formação técnica em Ciência de Dados</h4>
 
 ###
 
