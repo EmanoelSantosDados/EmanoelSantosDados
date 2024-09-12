@@ -1,6 +1,6 @@
 <h2 align="left">Olá, eu sou o Emanoel Santos, Data Scientist</h2>
 
-<h3 align="left">Vamos nos conectar</h3>
+<h3 align="left">Social</h3>
 
 <div align="left">
   <a href="https://www.instagram.com/emanoel1980/" target="_blank">
